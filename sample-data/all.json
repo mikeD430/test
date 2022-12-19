@@ -44,7 +44,8 @@
     {
       "entityRef": {
         "kind": "system",
-        "name": "non-valid-system"
+        "name": "non-valid-system",
+        "owner": "guest"
       },
       "generatedDateTimeUtc": "2021-07-22 10:00",
       "scorePercent": 20,
