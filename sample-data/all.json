@@ -45,7 +45,7 @@
     {
       "entityRef": {
         "kind": "system",
-        "name": "non-valid-system",
+        "name": "examples",
         "owner": "guest"
       },
       "generatedDateTimeUtc": "2021-07-22 10:00",
