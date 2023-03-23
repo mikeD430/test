@@ -54,7 +54,7 @@
   {
     "entityRef": {
       "kind": "system",
-      "name": "example-website"
+      "name": "examples"
     },
     "generatedDateTimeUtc": "2021-07-22 10:00",
     "scorePercent": 57,
