@@ -2,7 +2,7 @@
   {
     "entityRef": {
       "kind": "api",
-      "name": "hello-world"
+      "name": "example-grpc-api"
     },
     "scorePercent": 50,
     "scoreLabel": "Yellow",
