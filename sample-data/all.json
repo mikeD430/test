@@ -38,12 +38,6 @@
         "scorePercent": 50,
         "scoreLabel": "Yellow",
         "scoreSuccess": "almost-failure"
-      },
-      {
-         "title": "Sustainability",
-        "scorePercent": 50,
-        "scoreLabel": "Yellow",
-        "scoreSuccess": "almost-failure"
       }
     ]
   },
