@@ -10,31 +10,36 @@
     "scoreSuccess": "almost-failure",
     "areaScores": [
       {
-        "title": "Code",
+        "title": "Operational Excellence",
         "scorePercent": 100,
         "scoreLabel": "Green",
         "scoreSuccess": "success"
       },
       {
-        "title": "Documentation",
+        "title": "Security",
         "scorePercent": 25,
         "scoreLabel": "Red",
         "scoreSuccess": "failure"
       },
       {
-        "title": "Operations",
+        "title": "Reliability",
         "scorePercent": 100,
         "scoreLabel": "Green",
         "scoreSuccess": "success"
       },
       {
-        "title": "Quality",
+        "title": "Performance Efficiency",
         "scorePercent": 50,
         "scoreLabel": "Yellow",
         "scoreSuccess": "almost-failure"
       },
       {
-        "title": "Security",
+        "title": "Cost Optimsation",
+        "scorePercent": 50,
+        "scoreLabel": "Yellow",
+        "scoreSuccess": "almost-failure"
+      },
+         "title": "Sustainability",
         "scorePercent": 50,
         "scoreLabel": "Yellow",
         "scoreSuccess": "almost-failure"
