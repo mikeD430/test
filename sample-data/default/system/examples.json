@@ -293,7 +293,6 @@
         "id": 4328,
         "title": "Costs",
         "scorePercent": 10,
-        "scoreLabel": "F",
         "scoreSuccess": "failure",
         "scoreEntries": [
           {
