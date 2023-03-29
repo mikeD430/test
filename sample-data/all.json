@@ -601,14 +601,14 @@
       },
       {
         "id": 4333,
-        "title": "Quality",
+        "title": "Performance Efficiency",
         "scorePercent": 25,
         "scoreLabel": "F",
         "scoreSuccess": "almost-failure",
         "scoreEntries": [
           {
             "id": 2187,
-            "title": "Performance Efficiency",
+            "title": "Code Reviews",
             "scorePercent": 100,
             "scoreSuccess": "success",
             "scoreHints": [
