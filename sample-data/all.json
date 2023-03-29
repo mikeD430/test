@@ -34,7 +34,7 @@
         "scoreSuccess": "almost-failure"
       },
       {
-        "title": "Cost Optimsation",
+        "title": "Cost Optimisation",
         "scorePercent": 50,
         "scoreLabel": "Yellow",
         "scoreSuccess": "almost-failure"
@@ -64,7 +64,7 @@
     "areaScores": [
       {
         "id": 2199,
-        "title": "Code",
+        "title": "Operational Excellence",
         "scorePercent": 90,
         "scoreSuccess": "success",
         "scoreEntries": [
@@ -107,7 +107,7 @@
       },
       {
         "id": 3937,
-        "title": "Documentation",
+        "title": "Security",
         "scorePercent": 75,
         "scoreSuccess": "almost-success",
         "scoreEntries": [
@@ -171,7 +171,7 @@
       },
       {
         "id": 2208,
-        "title": "Operations",
+        "title": "Reliability",
         "scorePercent": 50,
         "scoreSuccess": "partial",
         "scoreEntries": [
@@ -287,7 +287,7 @@
       },
       {
         "id": 4333,
-        "title": "Quality",
+        "title": "Performance Efficiency",
         "scorePercent": 25,
         "scoreSuccess": "almost-failure",
         "scoreEntries": [
@@ -344,7 +344,7 @@
       },
       {
         "id": 4328,
-        "title": "Security",
+        "title": "Cost Optimisation",
         "scorePercent": 10,
         "scoreSuccess": "failure",
         "scoreEntries": [
@@ -419,7 +419,7 @@
       },
       {
         "id": 3937,
-        "title": "Documentation",
+        "title": "Security",
         "scorePercent": 75,
         "scoreLabel": "B+",
         "scoreSuccess": "almost-success",
@@ -484,7 +484,7 @@
       },
       {
         "id": 2208,
-        "title": "Operations",
+        "title": "Reliability",
         "scorePercent": 50,
         "scoreLabel": "D",
         "scoreSuccess": "partial",
@@ -608,7 +608,7 @@
         "scoreEntries": [
           {
             "id": 2187,
-            "title": "Code Reviews",
+            "title": "Performance Efficiency",
             "scorePercent": 100,
             "scoreSuccess": "success",
             "scoreHints": [
@@ -659,7 +659,7 @@
       },
       {
         "id": 4328,
-        "title": "Security",
+        "title": "Cost Optimisation",
         "scorePercent": 10,
         "scoreLabel": "F",
         "scoreSuccess": "failure",
