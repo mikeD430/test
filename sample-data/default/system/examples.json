@@ -12,7 +12,7 @@
     "areaScores": [
       {
         "id": 2199,
-        "title": "Code",
+        "title": "Operational Excellence",
         "scorePercent": 90,
         "scoreLabel": "A",
         "scoreSuccess": "success",
@@ -58,7 +58,7 @@
       },
       {
         "id": 3937,
-        "title": "Documentation",
+        "title": "Security",
         "scorePercent": 75,
         "scoreLabel": "B+",
         "scoreSuccess": "almost-success",
@@ -123,7 +123,7 @@
       },
       {
         "id": 2208,
-        "title": "Operations",
+        "title": "Reliability",
         "scorePercent": 50,
         "scoreLabel": "D",
         "scoreSuccess": "partial",
@@ -240,7 +240,7 @@
       },
       {
         "id": 4333,
-        "title": "Quality",
+        "title": "Performance Efficiency",
         "scorePercent": 25,
         "scoreLabel": "F",
         "scoreSuccess": "almost-failure",
@@ -298,7 +298,7 @@
       },
       {
         "id": 4328,
-        "title": "Security",
+        "title": "Costs",
         "scorePercent": 10,
         "scoreLabel": "F",
         "scoreSuccess": "failure",
