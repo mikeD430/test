@@ -1,10 +1,9 @@
 [
   {
-    "entityRef": 
-      {
+    "entityRef": {
       "kind": "api",
       "name": "example-grpc-api"
-      },
+    },
     "scorePercent": 50,
     "scoreLabel": "Yellow",
     "scoringReviewDate": "2022-01-01T08:00:00Z",
